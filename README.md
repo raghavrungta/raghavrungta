@@ -1,9 +1,11 @@
 - 👋 Hi, I’m @raghavrungta
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning C .
+## mozilla 
+### heading 
+ok interesting   
+and next line
+# I can **bold**
+# I can *italic*
+# I can ***bold as well as italic*** 
 
-
-<!---
-raghavrungta/raghavrungta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
